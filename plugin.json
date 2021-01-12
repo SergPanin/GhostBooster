@@ -1,0 +1,13 @@
+{
+    "name": "Ghost Booster",
+    "author": "https://t.me/ghost4plugin community",
+    "description": "Manager your FlyingBear printers via WIFI",
+    "version": "0.41",
+    
+    "minimum_cura_version": "4.0",
+    "maximum_cura_version": "4.8",
+	
+	"api": "7.0",
+    "supported_sdk_versions": ["6.0.0"],
+    "i18n-catalog": "cura"
+}
