@@ -1,1 +1,1 @@
-JZ-TS Plugin for Ultimaker Cura
+Powerfull JZ-TS Plugin for Ultimaker Cura 
